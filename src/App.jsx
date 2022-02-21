@@ -1,10 +1,10 @@
 import React from "react";
-import UseCallbackExample from "./components/UseCallbackExample";
+import CustomHook2 from "./components/CustomHook2";
 
 export default () => (
   <>
-    {/* <h1>Welcome to React Vite Micro App!</h1>
+    {/* <h2>Welcome to React Vite Micro App!</h2>
     <p>Hard to get more minimal than this React app.</p> */}
-    <UseCallbackExample />
+    <CustomHook2 />
   </>
 );
